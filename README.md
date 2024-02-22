@@ -1,1 +1,1 @@
-This study delves into the preprocessing and exploratory data analysis of a corpus comprising newspaper articles, where initial phase involves constructing into individual articles using journalistic approach.
+This project delves into the preprocessing and exploratory data analysis of a corpus, where initial phase involves constructing into individual articles using journalistic approach.
